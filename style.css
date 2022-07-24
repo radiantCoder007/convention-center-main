@@ -14,3 +14,19 @@
     color: #3E3E3E;
 
 }
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: end;
+}
+
+.section-subtitle {
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 3rem;
+    color: #0A0826;
+
+}
+
+.card-header {
+    border: none;
+}
